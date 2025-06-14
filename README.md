@@ -1,2 +1,2 @@
-# sintukobir.github.io
-My clean GitHub Pages site with blog posts
+# SmartSolve Blog
+This is a Jekyll-powered blog hosted on GitHub Pages.
