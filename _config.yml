@@ -1,0 +1,15 @@
+title: SmartSolve Blog
+email: your@email.com
+description: >- 
+  Backlink SEO and tips from SmartSolveTips.com
+
+baseurl: "" 
+url: "https://sintukobir.github.io"
+
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+show_downloads: false
