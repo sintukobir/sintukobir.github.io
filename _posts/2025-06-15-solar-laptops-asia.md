@@ -8,7 +8,8 @@ tags: [solar tech, education, Asia]
 
 Students in Southeast Asia are now using laptops that charge with solar backpacks.
 
-🔗 [See solar tech education on SmartSolveTips.com](https://www.smartsolvetips.com)
+🔗 See solar tech education on[ SmartSolveTips.com](https://www.smartsolvetips.com)
+🔗[The Power of Tiny Habits for Big Change](https://www.smartsolvetips.com/power-of-tiny-habits-for-big-change/).
 
 Lightweight panels stitched into bags provide all-day power, helping students in rural Indonesia, Vietnam, and Nepal learn seamlessly.
 
